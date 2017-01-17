@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Rockets.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Rockets.csproj</String>
+    <String>Rockets.Editor.csproj</String>
+  </DisabledProjects>
+</Properties>
